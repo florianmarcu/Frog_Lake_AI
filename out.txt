@@ -1,0 +1,22 @@
+
+A* :
+Lungimea cozii actuale: 1
+Lungimea cozii actuale: 288
+Solutie de cost: 6.595081652712336
+--- 3.61 seconds ---Lungimea cozii actuale: 512
+Solutie de cost: 6.595081652712336
+--- 3.63 seconds ---Lungimea cozii actuale: 736
+Solutie de cost: 6.595081652712336
+--- 3.66 seconds ---
+UCS* :
+Lungimea cozii actuale: 1
+Lungimea cozii actuale: 288
+Solutie de cost: 6.595081652712336
+--- 3.69 seconds ---Lungimea cozii actuale: 512
+Solutie de cost: 6.595081652712336
+--- 3.71 seconds ---Lungimea cozii actuale: 736
+Solutie de cost: 6.595081652712336
+--- 3.72 seconds ---
+IDA* :
+
+A* Opt :
